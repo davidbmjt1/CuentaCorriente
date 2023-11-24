@@ -19,10 +19,6 @@ public class CuentaCorriente {
     }
 
 
-    /*
-    public void mostrarSaldo() {
-    }
-    */
 
 
     @Override
