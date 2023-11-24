@@ -14,7 +14,7 @@ public class CuentaCorriente {
         saldo = saldo - cantidad;
     }
 
-    public void inregresarFondo(double cantidad) {
+    public void ingregresarFondos(double cantidad) {
         saldo += cantidad;
     }
 
